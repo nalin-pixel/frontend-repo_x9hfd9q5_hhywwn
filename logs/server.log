@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 208 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.30.84:3000/
+10:52:38 AM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/Features.jsx:17:83: ERROR: Unterminated string literal
+10:52:39 AM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
+10:52:39 AM [vite] ✨ optimized dependencies changed. reloading
